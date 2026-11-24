@@ -1,376 +1,137 @@
-# Awesome-Computational-Linguistics-Lexical-VIZ
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Computational Linguistics and Lexical Visualization" width="100%" />
+</p>
 
-### Top Component Libraries & Modern UI Design Ecosystem
+# Awesome Computational Linguistics & Lexical Visualization 🌐📚
 
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
-*Focused on Copy-Paste UI Primitives, Accessible Design Systems, Tailwind CSS Component Kits, Headless UI & Modern Web Interface Libraries*  
-**Last updated: November 2026**
-
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Component Libraries & Modern UI Design**. These tools provide accessible, customizable, responsive UI primitives, dashboard blocks, design systems, and interactive web components across React, Next.js, Vue, Svelte, Solid, and Tailwind CSS workflows.
-
-**Examples** include Shadcn UI, Tailwind UI (Tailwind Plus), Chakra UI Pro, Mantine UI, Material UI Store (MUI X Pro), Ant Design Pro, NextUI Pro (HeroUI Pro), Tremor Pro, Flowbite Pro, Relume, and opencoredev/islandcn (the category leaders and popular runtimes). 
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for copy-paste component registries (`Shadcn UI`, `opencoredev/islandcn`, `Magic UI`, `Aceternity-style open alternatives`), accessible headless UI primitives (`Radix UI`, `Base UI`, `Ark UI`, `Headless UI`, `React Aria`), and full-featured open-source component suites (`Mantine`, `HeroUI / NextUI`, `Chakra UI`, `Ant Design`, `daisyUI`, `Flowbite`) — ideal for frontend engineers, UI/UX designers, design-system architects, and full-stack developers.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Support & Share](#support--share)
-- [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
-
-- **[Tailwind Plus (formerly Tailwind UI)](https://tailwindcss.com)**  
-  Official commercial UI kit from the creators of Tailwind CSS offering hundreds of professionally designed application UI, marketing, and e-commerce templates in HTML, React, and Vue.
-
-- **[Relume](https://relume.io)**  
-  AI-powered site builder and massive component library (1,000+ Webflow, Figma, and React/Tailwind components) engineered for rapid wireframing and marketing site production.
-
-- **[Chakra UI Pro](https://chakra-ui.com)**  
-  Commercial suite of responsive, accessible, multi-theme marketing and application UI blocks built directly on top of open-source Chakra UI.
-
-- **[MUI Store & MUI X Pro/Premium](https://mui.com)**  
-  Official Material UI marketplace and enterprise component tier featuring advanced data grids, date/time range pickers, charts, and commercial React/Next.js dashboard templates.
-
-- **[HeroUI Pro (formerly NextUI Pro)](https://heroui.pro)**  
-  Commercial library of 200+ responsive, accessible Tailwind CSS and Framer Motion UI blocks built on the open-source HeroUI component system.
-
-- **[Flowbite Pro](https://flowbite.com)**  
-  Commercial design system and UI kit extending open-source Flowbite with Figma variables, dashboard templates, e-commerce blocks, and application UI sections.
-
-- **[Tremor Blocks / Pro](https://tremor.so)**  
-  Commercial collection of polished analytics, KPI card, and financial dashboard UI blocks built on Tailwind CSS and open-source Tremor primitives.
-
-- **[Shadcn UI Pro / Commercial Registries (e.g., Shadcnblocks / Origin UI Pro)](https://shadcn.com)**  
-  Ecosystem of commercial block marketplaces and SaaS starter kits built around the open-source `shadcn/ui` CLI registry specification.
-
-- **[Ant Design Pro (Commercial Cloud Templates & Enterprise Suites)](https://ant.design)**  
-  Enterprise-grade admin console design ecosystem offering commercial scaffolded layouts, business components, and internationalized dashboard blueprints.
-
-
-## Open-Source GitHub Projects
-
-- **[opencoredev/islandcn](https://github.com)**  
-  Open-source modern UI component library and registry inspired by `shadcn/ui`, engineered for clean, modular, copy-pasteable web interface primitives.
-
-- **[shadcn/ui (`shadcn-ui/ui`)](https://github.com)**  
-  Flagship open-source collection of beautifully designed, accessible, copy-paste React components built with Tailwind CSS and Radix/Base UI primitives—owned directly in your codebase.
-
-- **[Radix UI Primitives (`radix-ui/primitives`)](https://github.com)**  
-  Unstyled, accessible, WAI-ARIA-compliant open-source React UI primitives (dialogs, dropdowns, popovers, tabs, tooltips) powering `shadcn/ui` and modern design systems.
-
-- **[Base UI (`mui/base-ui`)](https://github.com)**  
-  Open-source library of unstyled, accessible React UI components and hooks maintained by the creators of Radix, Floating UI, and Material UI.
-
-- **[Mantine (`mantinedev/mantine`)](https://github.com)**  
-  Comprehensive, batteries-included open-source React component and hooks library featuring 100+ customizable components, forms, rich-text editors, and charts with native dark mode.
-
-- **[HeroUI (`heroui-inc/heroui`, formerly NextUI)](https://github.com)**  
-  Modern, fast open-source React UI library built on Tailwind CSS and React Aria featuring smooth animations, automatic dark mode, and zero runtime CSS overhead.
-
-- **[Chakra UI (`chakra-ui/chakra-ui`)](https://github.com)**  
-  Popular open-source modular, accessible React component library offering intuitive style props, semantic tokens, and Ark UI state-machine primitives.
-
-- **[Ant Design (`ant-design/ant-design`)](https://github.com)**  
-  Enterprise-class open-source React UI design language and component library featuring a massive suite of data tables, forms, tree selects, and admin layouts.
-
-- **[Material UI (`mui/material-ui`)](https://github.com)**  
-  Industry-standard open-source React implementation of Google's Material Design with extensive theming, Emotion/Pigment CSS styling, and enterprise adoption.
-
-- **[Tremor (`tremorlabs/tremor`)](https://github.com)**  
-  Open-source React library built on Tailwind CSS and Recharts providing 35+ clean, copy-pasteable dashboard components, KPI cards, sparklines, and area/bar charts.
-
-- **[Flowbite (`themesberg/flowbite`) & daisyUI (`saadeghi/daisyui`)](https://github.com)**  
-  Leading open-source Tailwind CSS component libraries adding semantic class names (`daisyUI`) and interactive JavaScript/React/Vue UI elements (`Flowbite`).
-
-### Additional Strong Open-Source Options
-
-- **[Ark UI (`chakra-ui/ark`)](https://github.com)** and **[Headless UI (`tailwindlabs/headlessui`)](https://github.com)** for completely unstyled, accessible UI components across React, Vue, Solid, and Svelte.
-- **[React Aria Components (`adobe/react-spectrum`)](https://github.com)** for Adobe's open-source accessibility-first UI primitives with battle-tested keyboard navigation, internationalization, and touch interactions.
-- **[Magic UI (`magicuidesign/magicui`)](https://github.com)** and **[Motion Primitives (`ibelick/motion-primitives`)](https://github.com)** for open-source animated landing-page components built with Tailwind CSS and Motion (Framer Motion).
-- **[shadcn-svelte (`huntabyte/shadcn-svelte`)](https://github.com)** and **[shadcn-vue (`unovue/shadcn-vue`)](https://github.com)** for official community ports of `shadcn/ui` to Svelte and Vue ecosystems.
-- **[Park UI (`cschroeter/park-ui`)](https://github.com)** for a multi-framework open-source design system built on Ark UI and Panda CSS / Tailwind CSS.
-
-**Frameworks for building custom systems**: Combine **shadcn/ui** or **opencoredev/islandcn** + **Tailwind CSS** for customizable copy-paste design systems, **Mantine** or **Ant Design** for rapid data-heavy internal dashboards, and **Radix UI** or **React Aria** when crafting bespoke accessible primitives from scratch.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Support & Share
-
-If you find this curated list helpful, consider supporting the project:
-
-- ⭐ **Star this repository** to help others discover it.
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
-
-[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Always test custom and copy-paste UI components for keyboard navigation, screen-reader ARIA attributes, and WCAG color-contrast compliance before shipping to production.
-- Verify commercial seat licenses before redistributing paid UI kits (such as Tailwind Plus, Relume, or Chakra UI Pro) inside open-source repositories or client starter templates.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computational-Linguistics-Lexical-VIZ/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Computational-Linguistics-Lexical-VIZ?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computational-Linguistics-Lexical-VIZ/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Computational-Linguistics-Lexical-VIZ?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Computational-Linguistics-Lexical-VIZ/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Computational-Linguistics-Lexical-VIZ?style=flat-square&color=emerald" alt="Open Issues" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-**Made for frontend engineers, UI/UX designers, design-system architects, and open-source contributors.**  
-Let's make modern web UI design and component engineering more open, accessible, and composable.
-# Awesome-Computational-Linguistics-Lexical-VIZ
+### 📖 The State-of-the-Art in Computational Linguistics, Corpus Exploration & Lexical Atlases
 
-markdown
+> **Curated Directory of Enterprise SaaS Analytics, Academic Concordancers, Digital Humanities Engines & Open-Source NLP Toolkits**  
+> *Focused on Corpus Linguistics, Semantic Atlases, Syntactic Dependency Visualizers, KWIC Concordancers, and Topic Modeling Networks.*  
+> **Last updated:** November 2026 🚀
 
-## Top Computational Linguistics & Lexical Visualization Ecosystem
+Welcome to the definitive, SEO-optimized index of **Computational Linguistics & Lexical Visualization** tools. This repository catalogues the leading hosted platforms, enterprise NLP APIs, and open-source packages for analyzing, concordancing, vectorizing, and interactively visualizing complex linguistic datasets and massive textual corpora. Whether you are conducting digital humanities research, building multilingual NLP pipelines, mapping semantic word spaces, or analyzing syntactical dependencies, this directory aggregates both commercial benchmarks and battle-tested open-source repositories.
 
+---
 
+## 📑 Table of Contents
+- [Sector Overview & Market Dynamics 📊](#sector-overview--market-dynamics-)
+- [SaaS & Hosted Platforms ☁️](#saas--hosted-platforms-️)
+- [Open-Source GitHub Projects 💻](#open-source-github-projects-)
+- [Star History 🌟](#star-history-)
+- [How to Contribute 🤝](#how-to-contribute-)
+- [Support & Community 💖](#support--community-)
+- [License & Disclaimer 📜](#license--disclaimer-)
 
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
+---
 
-*Focused on Corpus Linguistics, Lexical Visualization, Text Mining, Concordancers, NLP Pipelines & Semantic Word Atlases*  
+## Sector Overview & Market Dynamics 📊
 
-**Last updated: November 2026**
+The global Natural Language Processing (NLP) and Text Analytics market is valued at approximately **$37B–$52B** (projected to exceed **$190B+ by 2032** at a 20%+ CAGR), while specialized text analytics alone represents a **$13B–$15B** segment. The sector exhibits a **moderately concentrated infrastructure core** dominated by major cloud hyperscalers providing foundational compute and LLM APIs, contrasted with a **highly fragmented application and corpus-linguistics ecosystem** where specialized SaaS platforms, academic concordancers, and domain-tailored NLP engines capture enterprise and digital humanities workloads through unique linguistic taxonomies, syntax parsers, and custom dictionaries.
 
+---
 
+## SaaS & Hosted Platforms ☁️
 
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Computational Linguistics & Lexical Visualization**. These tools analyze, concord, parse, embed, and visualize massive text corpora, lexical networks, semantic drift, collocations, and linguistic annotations across digital humanities portals, NLP pipelines, and interactive lexical visualizations.
+The following table provides detailed metrics, enterprise scale, transparent entry-tier pricing, and specific free tier / trial terms for leading hosted computational linguistics and text analytics software. The table is sorted by **Company Size (Revenue / Valuation)** in descending order.
 
+| Platform | Category & Core Focus | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Official Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Altair AI Studio & RapidMiner** | Visual Data Science & Linguistic Mining Workflows | **$10.6B Valuation** *(~$665.8M Rev; Acquired by Siemens)* | **$10,000 / year** *(Altair Units commercial licensing)* | **Free Tier:** Permanent free edition capped at **10,000 data rows/examples per process** (manual interactive UI execution only) | [Altair](https://altair.com) |
+| **Medallia (MonkeyLearn)** | No-Code Text Analytics, Topic Models & Word Clouds | **$6.4B Valuation** *(~$500M+ Rev; Acquired by Thoma Bravo)* | **$299 / month** *(Team Plan, billed annually)* | **Free Tier:** Permanent free plan with **300 queries per month** and pre-built model testing | [MonkeyLearn](https://monkeylearn.com) |
+| **Quantexa (Aylien)** | News Intelligence & Multilingual Semantic Graph API | **$2.6B Valuation** *(~$161M Rev / £126.4M; Series F)* | **Custom Enterprise / ~$1,500 / month** *(News API enterprise starter)* | **Free Trial:** **14-day evaluation trial** via sales qualification with structured API volume caps | [Aylien](https://aylien.com) |
+| **Reddit (MeaningCloud)** | Cloud Syntactic Parsing, Lemmatization & Topic APIs | **$10B+ Public Market Cap** *(MeaningCloud pre-acq: ~$1M Rev)* | **$99 / month** *(Basic / Start-up Plan for 120,000 requests)* | **Free Tier:** Permanent developer tier with **20,000 requests/credits per month** (rate-limited at 2 requests/second; 500 words/credit) | [MeaningCloud](https://meaningcloud.com) |
+| **InMoment (Lexalytics)** | Enterprise Multilingual Syntax Parsing & Sentiment Engine | **$100M+ Est. Rev** *(Lexalytics pre-acq: ~$3.9M Rev)* | **$2,500 / month** *(Modular cloud enterprise entry tier)* | **Free Trial:** **14-day free pilot trial** with sandbox API access upon sales demonstration | [Lexalytics](https://lexalytics.com) |
+| **Babel Street (Rosette API)** | Cross-Lingual Entity Resolution & Morphological NLP | **$31M–$54M Est. ARR** *(Veritas Capital portfolio company)* | **£15,000 / year** *(~$19,000 / year baseline enterprise module)* | **Free Tier:** Developer starter plan with **2,000 calls per month** (strictly capped at 500 calls/day; max 50,000 chars per doc) | [Rosette API](https://babelstreet.com) |
+| **Sketch Engine (Lexical Computing)** | Cloud Corpus Manager, Word Sketches & CQL Concordancer | **~$2M–$5M Est. Rev** *(SME in Brno, Czech Republic)* | **€7.09 / month** *(Academic personal) / **€12.03 / month** (Commercial freelancer)* | **Free Trial:** **30-day unrestricted trial** with access to core functions and **1,000,000-word user corpus upload limit** (no credit card required) | [Sketch Engine](https://sketchengine.eu) |
+| **Voyant Tools (Hosted)** | University-Hosted Digital Humanities Reading Environment | **Academic/Non-Profit Hosted** *(Funded by SSHRC/Universities)* | **$0.00 (100% Free)** *(Open academic infrastructure)* | **Free Tier:** **Completely free public cloud environment** supporting document uploads up to ~20MB per session | [Voyant Tools](https://voyant-tools.org) |
+| **AntConc Web & CQPweb** | Academic Web-Based Corpus Concordancing Systems | **Academic/University Hosted** *(Laurence Anthony & CQP Consortium)* | **$0.00 (100% Free)** *(Freeware/Academic servers)* | **Free Tier:** **Free access** across public research installations (e.g., Lancaster University, Korp servers) | [Laurence Anthony](https://laurenceanthony.net) |
 
+---
 
-**Examples** include Sketch Engine, Voyant Tools, AntConc Cloud, WordHoard, Lexalytics, MonkeyLearn, RapidMiner NLP (Altair AI Studio), MeaningCloud, Aylien, Rosette API, and designfuchen/word-atlas (the category leaders and popular runtimes). 
+## Open-Source GitHub Projects 💻
 
+The computational linguistics and lexical visualization landscape is backed by rich open-source tooling. Below are the premier open-source repositories, sorted by **GitHub Stars (Descending)**. Each repository name includes a direct social-style badge indicating its live star count, linking directly to that repository's stargazers page.
 
+| Repository | Live Stars | Domain & Key Linguistic Capabilities | Framework / Language |
+| :--- | :---: | :--- | :--- |
+| **[spaCy](https://github.com/explosion/spaCy)** | [![GitHub stars](https://img.shields.io/github/stars/explosion/spaCy?style=social&color=white)](https://github.com/explosion/spaCy/stargazers) | Industrial-strength NLP with lightning-fast tokenization, morphological tagging, and built-in `displaCy` SVG syntactic dependency tree & named-entity visualizers. | Python / Cython |
+| **[Gensim](https://github.com/piskvorky/gensim)** | [![GitHub stars](https://img.shields.io/github/stars/piskvorky/gensim?style=social&color=white)](https://github.com/piskvorky/gensim/stargazers) | Scalable topic modeling and semantic vector spaces implementing Word2Vec, Doc2Vec, FastText, and Latent Dirichlet Allocation (LDA). | Python / Cython |
+| **[NLTK](https://github.com/nltk/nltk)** | [![GitHub stars](https://img.shields.io/github/stars/nltk/nltk?style=social&color=white)](https://github.com/nltk/nltk/stargazers) | Seminal computational linguistics library providing WordNet semantic taxonomy browsing, lexical dispersion graphs, frequency distributions, and stemmers. | Python |
+| **[Flair](https://github.com/flairNLP/flair)** | [![GitHub stars](https://img.shields.io/github/stars/flairNLP/flair?style=social&color=white)](https://github.com/flairNLP/flair/stargazers) | Powerful PyTorch-based NLP framework for state-of-the-art multilingual sequence labeling, contextualized string embeddings, and text classification. | Python / PyTorch |
+| **[Cytoscape.js](https://github.com/cytoscape/cytoscape.js)** | [![GitHub stars](https://img.shields.io/github/stars/cytoscape/cytoscape.js?style=social&color=white)](https://github.com/cytoscape/cytoscape.js/stargazers) | Premier graph theory and network visualization engine for rendering large-scale lexical co-occurrence networks, etymological trees, and knowledge graphs in web browsers. | JavaScript |
+| **[doccano](https://github.com/doccano/doccano)** | [![GitHub stars](https://img.shields.io/github/stars/doccano/doccano?style=social&color=white)](https://github.com/doccano/doccano/stargazers) | Open-source text annotation tool for collaborative linguistic labeling across named entity recognition, sentiment analysis, and sequence-to-sequence translation. | Python / Vue.js |
+| **[WordCloud](https://github.com/amueller/word_cloud)** | [![GitHub stars](https://img.shields.io/github/stars/amueller/word_cloud?style=social&color=white)](https://github.com/amueller/word_cloud/stargazers) | High-performance Python word cloud generator with mask clipping, custom color schemes, collocation detection, and publication-ready vector exports. | Python |
+| **[Pattern](https://github.com/clips/pattern)** | [![GitHub stars](https://img.shields.io/github/stars/clips/pattern?style=social&color=white)](https://github.com/clips/pattern/stargazers) | Web mining and computational linguistics module with POS taggers, sentiment analysis, WordNet integration, and vector space network visualization. | Python |
+| **[BERTopic](https://github.com/MaartenGr/BERTopic)** | [![GitHub stars](https://img.shields.io/github/stars/MaartenGr/BERTopic?style=social&color=white)](https://github.com/MaartenGr/BERTopic/stargazers) | Neural topic modeling utilizing transformer embeddings and c-TF-IDF to construct interactive 2D intertopic distance maps, hierarchical topic trees, and term bar charts. | Python |
+| **[Stanza](https://github.com/stanfordnlp/stanza)** | [![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/stanza?style=social&color=white)](https://github.com/stanfordnlp/stanza/stargazers) | Stanford NLP Group's official neural pipeline offering tokenization, multi-word token expansion, lemmatization, and Universal Dependencies syntactic parsing in 70+ languages. | Python / PyTorch |
+| **[Gephi](https://github.com/gephi/gephi)** | [![GitHub stars](https://img.shields.io/github/stars/gephi/gephi?style=social&color=white)](https://github.com/gephi/gephi/stargazers) | The leading open-source network exploration software for graphing dense lexical collocations, semantic clusters, modularity classes, and sociolinguistic relations. | Java |
+| **[Word Atlas](https://github.com/designfuchen/word-atlas)** | [![GitHub stars](https://img.shields.io/github/stars/designfuchen/word-atlas?style=social&color=white)](https://github.com/designfuchen/word-atlas/stargazers) | Interactive lexical visualization web system designed to explore semantic vocabulary spaces, word hierarchies, and lexical cartography. | TypeScript / WebGL |
+| **[Polyglot](https://github.com/aboSamoor/polyglot)** | [![GitHub stars](https://img.shields.io/github/stars/aboSamoor/polyglot?style=social&color=white)](https://github.com/aboSamoor/polyglot/stargazers) | Multilingual natural language pipeline supporting tokenization (165 languages), language detection (196 languages), POS tagging (16 languages), and word embeddings. | Python |
+| **[Scattertext](https://github.com/JasonKessler/scattertext)** | [![GitHub stars](https://img.shields.io/github/stars/JasonKessler/scattertext?style=social&color=white)](https://github.com/JasonKessler/scattertext/stargazers) | Specialized visualization package for discovering distinguishing linguistic features between corpora and rendering interactive, D3-powered scatter plots. | Python |
+| **[pyLDAvis](https://github.com/bmabey/pyLDAvis)** | [![GitHub stars](https://img.shields.io/github/stars/bmabey/pyLDAvis?style=social&color=white)](https://github.com/bmabey/pyLDAvis/stargazers) | Python port of the R LDAvis library for interactive topic model visualization, presenting salient terms and intertopic multidimensional scaling projections. | Python / JavaScript |
+| **[CLTK](https://github.com/cltk/cltk)** | [![GitHub stars](https://img.shields.io/github/stars/cltk/cltk?style=social&color=white)](https://github.com/cltk/cltk/stargazers) | The Classical Language Toolkit: specialized NLP pipelines, lemmatizers, and prosodic parsers for historical and ancient languages (Latin, Ancient Greek, Sanskrit, Old English). | Python |
+| **[INCEpTION](https://github.com/eclipse-inception/inception)** | [![GitHub stars](https://img.shields.io/github/stars/eclipse-inception/inception?style=social&color=white)](https://github.com/eclipse-inception/inception/stargazers) | Semantic annotation and knowledge-base linking platform supporting syntactic dependency annotation, entity linking, and active learning. | Java |
+| **[UDPipe](https://github.com/ufal/udpipe)** | [![GitHub stars](https://img.shields.io/github/stars/ufal/udpipe?style=social&color=white)](https://github.com/ufal/udpipe/stargazers) | Fast, trainable pipeline for tokenization, morphological tagging, lemmatization, and Universal Dependencies syntactic parsing in CoNLL-U format. | C++ / Python |
+| **[HFST](https://github.com/hfst/hfst)** | [![GitHub stars](https://img.shields.io/github/stars/hfst/hfst?style=social&color=white)](https://github.com/hfst/hfst/stargazers) | Helsinki Finite-State Technology library for developing and compiling morphological analyzers, two-level phonology models, and finite-state transducers. | C++ / Python |
+| **[Voyant Tools Engine](https://github.com/voyanttools/Voyant)** | [![GitHub stars](https://img.shields.io/github/stars/voyanttools/Voyant?style=social&color=white)](https://github.com/voyanttools/Voyant/stargazers) | Open-source server backend powering Voyant Tools with modular panels including Cirrus, Bubblelines, Trends, and Contexts KWIC viewer. | Java |
+| **[Korp Frontend](https://github.com/spraakbanken/korp-frontend)** | [![GitHub stars](https://img.shields.io/github/stars/spraakbanken/korp-frontend?style=social&color=white)](https://github.com/spraakbanken/korp-frontend/stargazers) | Web-based corpus search interface created by Språkbanken supporting Corpus Query Processor (CQP) expressions, word pictures, and trend charts. | TypeScript / AngularJS |
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for lexical & corpus visualization (`designfuchen/word-atlas`, `Voyant Tools`, `Scattertext`, `pyLDAvis`, `WordCloud`), industrial NLP & linguistic annotation (`spaCy`, `Stanza`, `NLTK`, `UDPipe`), and corpus concordancers & morphological analyzers (`NoSketch Engine`, `TXM`, `LancsBox-style OSS tools`) — ideal for computational linguists, digital humanities researchers, NLP engineers, lexicographers, and data journalists.
+---
 
+## 🌟 Star History
 
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Computational-Linguistics-Lexical-VIZ&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Computational-Linguistics-Lexical-VIZ&type=date&legend=top-left)
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
+## 🤝 How to Contribute
 
+Contributions are warmly welcome! Help keep this computational linguistics and lexical visualization resource up to date:
 
-## Table of Contents
+1. 🍴 **Fork the repository** to your personal GitHub account.
+2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-linguistic-tool`).
+3. 📝 **Add or edit entries in `README.md`** following the established markdown table formats. Ensure SaaS products have transparent pricing, free tier specifications, and corporate scale metrics; ensure open-source repositories include live social star badges linking to stargazers.
+4. 🧪 **Check link integrity** and verify descriptions remain factual, objective, and relevant.
+5. 🚀 **Submit a Pull Request** with a concise summary of changes and sources.
 
-- [SaaS/Hosted Platforms](#saashosted-platforms)
+---
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+## 💖 Support & Community
 
-- [How to Contribute](#how-to-contribute)
+If you find this curated computational linguistics catalog valuable for your research, projects, or organization, please consider supporting the project:
 
-- [Support & Share](#support--share)
+- ⭐ **Star this repository** to improve visibility and help other linguists and developers find it.
+- 🍴 **Fork & Share** with your colleagues, university departments, and research labs on Twitter/X, LinkedIn, and Mastodon.
+- ☕ **Buy me a coffee / Sponsor my work**: Your sponsorship fuels open-source maintenance, continuous ecosystem tracking, and developer tooling. Support directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)!
 
-- [Disclaimer](#disclaimer)
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20%E2%99%A5-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
+---
 
+## 📜 License & Disclaimer
 
-## SaaS/Hosted Platforms
+- **License:** Distributed under the [MIT License](LICENSE).
+- **Disclaimer:** This repository is an independent community-curated resource. Product names, logos, and brands are property of their respective owners. Commercial pricing, subscription terms, and API limits are subject to change by vendors.
+- **Corpus & NLP Best Practices:** Always respect text copyright, data privacy (GDPR/HIPAA), character encoding standards (UTF-8 normalization), and language-specific tokenization rules when harvesting and processing large-scale corpora.
 
+---
 
-
-- **[Sketch Engine](https://sketchengine.eu)**  
-
-  Premier cloud corpus manager and text analysis platform providing Word Sketches, thesaurus generation, n-gram frequency profiling, and concordance tools across 100+ languages.
-
-
-
-- **[Lexalytics (InMoment)](https://lexalytics.com)**  
-
-  Enterprise cloud text analytics and NLP platform offering syntax parsing, entity extraction, sentiment/intent scoring, and domain-specific linguistic taxonomy customization.
-
-
-
-- **[MonkeyLearn (Medallia)](https://monkeylearn.com)**  
-
-  No-code cloud text analysis and visualization platform enabling teams to build custom keyword extractors, topic classifiers, and word-cloud/sentiment dashboards.
-
-
-
-- **[Rosette Text Analytics API (Babel Street)](https://babelstreet.com)**  
-
-  Commercial multilingual NLP and morphological analysis API providing lemmatization, part-of-speech tagging, entity resolution, and cross-lingual name matching.
-
-
-
-- **[Aylien (Quantexa News Intelligence)](https://aylien.com)**  
-
-  Cloud NLP and news intelligence platform delivering real-time entity linking, semantic topic tagging, and temporal linguistic trend analytics over global media corpora.
-
-
-
-- **[MeaningCloud](https://meaningcloud.com)**  
-
-  Cloud text analytics API suite supporting deep syntactic parsing, lemmatization, topic extraction, summarization, and custom user dictionaries.
-
-
-
-- **[Altair AI Studio & RapidMiner Text Processing](https://altair.com)**  
-
-  Visual data science and NLP workflow platform combining tokenization, stemming, TF-IDF vectorization, topic modeling, and interactive lexical charts.
-
-
-
-- **[Voyant Tools (Hosted Web Environment)](https://voyant-tools.org)**  
-
-  Popular web-based reading and text analysis environment offering instant browser access to Cirrus word clouds, Trends frequency plots, Links collocation graphs, and KWIC concordances.
-
-
-
-- **[AntConc Cloud / Web Concordancers (CQPweb / Korp Hosted)](https://laurenceanthony.net)**  
-
-  Cloud-hosted corpus query engines and web wrappers providing browser-based Key-Word-In-Context (KWIC) concordancing, collocate statistics, and N-gram dispersion plots.
-
-
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[designfuchen/word-atlas](https://github.com)**  
-
-  Open-source lexical visualization and word-atlas project engineered to map, explore, and visualize semantic word relationships, vocabularies, and linguistic structures interactively.
-
-
-
-- **[Voyant Tools (`voyanttools/Voyant`)](https://github.com)**  
-
-  Flagship open-source, self-hostable web-based text reading and analysis environment featuring over two dozen interactive lexical visualization panels (Cirrus, Mandala, Trends, Contexts).
-
-
-
-- **[spaCy (`explosion/spaCy`) & displaCy](https://github.com)**  
-
-  Industrial-strength open-source NLP library in Python/Cython featuring fast dependency parsing, morphological analysis, NER, and `displaCy` SVG dependency-tree & entity visualizers.
-
-
-
-- **[Scattertext (`JasonKessler/scattertext`)](https://github.com)**  
-
-  High-impact open-source Python tool for finding distinguishing terms across corpora and rendering interactive, searchable HTML scatter-plot lexical visualizations.
-
-
-
-- **[Stanza (`stanfordnlp/stanza`)](https://github.com)**  
-
-  Official open-source Python NLP package from the Stanford NLP Group offering neural tokenization, lemmatization, POS tagging, and Universal Dependencies parsing in 70+ languages.
-
-
-
-- **[NLTK — Natural Language Toolkit (`nltk/nltk`)](https://github.com)**  
-
-  Foundational open-source Python platform for computational linguistics teaching and research, bundling WordNet interfaces, concordancers, lexical dispersion plots, and tokenizers.
-
-
-
-- **[NoSketch Engine (`nlp-fi-muni/noske` / Manatee-open)](https://muni.cz)**  
-
-  Open-source edition of the Sketch Engine corpus management system combining the `Manatee` indexing engine and `Bonito` web interface for massive-corpus CQL concordancing.
-
-
-
-- **[pyLDAvis (`bmabey/pyLDAvis`) & BERTopic (`MaartenGr/BERTopic`)](https://github.com)**  
-
-  Leading open-source topic modeling and interactive visualization libraries producing intertopic distance maps, c-TF-IDF term bar charts, and hierarchical topic trees.
-
-
-
-- **[WordCloud (`amueller/word_cloud`)](https://github.com)**  
-
-  Widely used open-source Python lexical frequency generator supporting custom image masks, color maps, collocation bigram detection, and high-DPI SVG/PNG exports.
-
-
-
-- **[UDPipe (`ufal/udpipe`)](https://github.com)**  
-
-  Fast, trainable open-source C++ pipeline for tokenization, morphological tagging, lemmatization, and Universal Dependencies (CoNLL-U) syntactic parsing.
-
-
-
-- **[Gensim (`piskvorky/gensim`)](https://github.com)**  
-
-  Battle-tested open-source topic modeling and distributional semantics library implementing Word2Vec, FastText, Doc2Vec, and LDA for exploring lexical vector spaces.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Korp (`spraakbanken/korp-frontend` & `korp-backend`)](https://github.com)** for Språkbanken's open-source web corpus search and lexical statistics platform supporting complex CQP queries and trend charts.
-
-- **[INCEpTION (`inception-project/inception`)](https://github.com)** and **[doccano (`doccano/doccano`)](https://github.com)** for open-source semantic annotation, linguistic corpus tagging, and knowledge-graph linking platforms.
-
-- **[Polyglot (`aboSamoor/polyglot`)](https://github.com)** and **[hfst (`hfst/hfst`)](https://github.com)** for open-source multilingual finite-state morphological transducers, transliteration, and phonetic analysis.
-
-- **[Gephi (`gephi/gephi`)](https://github.com)** and **[Cytoscape.js (`cytoscape/cytoscape.js`)](https://github.com)** for rendering large-scale lexical co-occurrence networks, etymological trees, and semantic word graphs.
-
-- **[WordHoard (`northwestern-academic-research-technologies/wordhoard`)](https://github.com)** for Northwestern University's open-source application enabling deep morphological, lexical, and prosodic querying of classical literary corpora.
-
-
-
-**Frameworks for building custom systems**: Combine **spaCy + Stanza** for morphological and syntactic corpus annotation, **NoSketch Engine** or **Voyant Tools** for self-hosted corpus querying, and **designfuchen/word-atlas + Scattertext + BERTopic** for interactive lexical and semantic visualizations.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Support & Share
-
-
-
-If you find this curated list helpful, consider supporting the project:
-
-
-
-- ⭐ **Star this repository** to help others discover it.
-
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
-
-
-
-[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Note that `AntConc` desktop software by Laurence Anthony is closed-source freeware rather than open-source, while `WordHoard` and `Voyant Tools` provide open-source repositories alongside hosted university servers.
-
-Use code with caution.
-
-• Always verify text corpus copyright permissions, character encoding (UTF-8 normalization), and tokenization rules across morphologically rich or non-whitespace-delimited languages.
-
-Made for computational linguists, digital humanities scholars, NLP engineers, lexicographers, and open-source contributors.
-
-Let's make computational linguistics and lexical visualization more open, interpretable, and accessible.
+<p align="center">
+  <sub>Built with ❤️ for computational linguists, lexicographers, NLP researchers, and digital humanists worldwide.</sub>
+</p>
